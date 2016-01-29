@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Fruit" max_length="40" name="x_snc_waffle_fruit" type="collection">
+        <element label="Flavor" max_length="40" name="flavor" type="string"/>
+    </element>
+</database>

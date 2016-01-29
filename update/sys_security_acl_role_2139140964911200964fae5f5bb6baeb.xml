@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-01-29 21:22:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>2139140964911200964fae5f5bb6baeb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_waffle_fruit.x_snc_waffle.user</sys_name>
+        <sys_package display_value="Waffle" source="x_snc_waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_scope>
+        <sys_security_acl display_value="x_snc_waffle_fruit">a139140964911200964fae5f5bb6baea</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2139140964911200964fae5f5bb6baeb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-01-29 21:22:57</sys_updated_on>
+        <sys_user_role display_value="x_snc_waffle.user" name="x_snc_waffle.user">bda995f06f11120005c00d9c5d3ee4c2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
