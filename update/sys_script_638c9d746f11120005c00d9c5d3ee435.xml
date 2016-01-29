@@ -31,7 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	gs.info("Inserted My Waffle.");
+	gs.info("Inserted Waffle: " + current.number);
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_scope>
         <sys_update_name>sys_script_638c9d746f11120005c00d9c5d3ee435</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-01-29 17:06:12</sys_updated_on>
+        <sys_updated_on>2016-01-29 17:04:52</sys_updated_on>
         <template/>
         <when>async</when>
     </sys_script>
