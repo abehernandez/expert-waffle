@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>638c9d746f11120005c00d9c5d3ee435</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Waffle BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="Waffle" source="x_snc_waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_package>
@@ -50,9 +50,9 @@
         <sys_scope display_value="Waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_scope>
         <sys_update_name>sys_script_638c9d746f11120005c00d9c5d3ee435</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-01-29 17:04:52</sys_updated_on>
+        <sys_updated_on>2016-01-29 17:52:49</sys_updated_on>
         <template/>
-        <when>async</when>
+        <when>before</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=638c9d746f11120005c00d9c5d3ee435"/>
 </record_update>
