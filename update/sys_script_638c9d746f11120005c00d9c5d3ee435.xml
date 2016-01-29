@@ -31,7 +31,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// Add your code here
-	gs.info("Inserted a Waffle");
+	gs.info("Inserted My Waffle");
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>638c9d746f11120005c00d9c5d3ee435</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Waffle BR</sys_name>
         <sys_overrides/>
         <sys_package display_value="Waffle" source="x_snc_waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_package>
@@ -50,7 +50,7 @@
         <sys_scope display_value="Waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_scope>
         <sys_update_name>sys_script_638c9d746f11120005c00d9c5d3ee435</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-01-29 07:40:30</sys_updated_on>
+        <sys_updated_on>2016-01-29 16:37:24</sys_updated_on>
         <template/>
         <when>async</when>
     </sys_script>
