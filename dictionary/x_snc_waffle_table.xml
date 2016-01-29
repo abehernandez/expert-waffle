@@ -2,6 +2,9 @@
 <database>
     <element label="Waffle Table" max_length="40" name="x_snc_waffle_table" type="collection">
         <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Number of squares" max_length="40" name="number_of_squares" type="integer"/>
+        <element label="Preferred topping" max_length="40" name="preferred_topping" type="string"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
     </element>
 </database>

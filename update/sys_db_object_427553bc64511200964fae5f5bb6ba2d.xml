@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-01-29 16:28:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>427553bc64511200964fae5f5bb6ba2d</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Belgian Waffle</sys_name>
