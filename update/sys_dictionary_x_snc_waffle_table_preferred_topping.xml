@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-01-29 17:40:09</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>76e5a3346fd1120005c00d9c5d3ee424</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f607d4c564911200964fae5f5bb6bab9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Preferred topping</sys_name>
         <sys_package display_value="Waffle" source="x_snc_waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Waffle">f0a9d1306f11120005c00d9c5d3ee4d1</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_waffle_table_preferred_topping</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-01-29 17:40:09</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-01-29 21:13:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
